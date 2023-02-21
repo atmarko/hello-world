@@ -8,7 +8,7 @@ Playing arround in the md file
 
 Hi, my name is Marko.
 I am a future DevOps hopeful.
-I am currenyly attending the **SF** DevOps academy
+I am currently attending the **SF** DevOps academy
 
 
 
